@@ -12,7 +12,3 @@ Want to have’s:
 - User account and authentication through Firebase
 - Computer push alerts as a first choice
 - Implement as a progressive web app
-
-<img src="./Screen Shot 2018-09-21 at 4.10.25 PM">
-<img src="./Screen Shot 2018-09-21 at 4.10.11 PM">
-<img src="./Screen Shot 2018-09-21 at 4.10.01 PM">
